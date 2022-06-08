@@ -1,0 +1,10 @@
+{
+  "name": "qrcodegenerator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "John Richard Ward Daily",
+  "license": "MIT",
+  "scripts": {
+    "start": "php -S localhost:8080"
+  }
+}
